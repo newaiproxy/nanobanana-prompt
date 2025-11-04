@@ -1,6 +1,6 @@
 # Nano-banana提示词大全，最强Nano-banana创意玩法提示词示例合集，Nano-banana热门玩法最全教程+提示词+API使用指南，Nano-banana 教程与提示词合集
 
-![Nano-banana提示词大全，最强Nano-banana创意玩法提示词示例合集，Nano-banana热门玩法最全教程+提示词+API使用指南，Nano-banana 教程与提示词合集]([https://pic2.imgdd.cc/item/68e3e9748dc72b176e79f7dd.jpg](https://pic.imgdd.cc/item/690978ba423b249744b86877.png))
+[![Nano-banana提示词大全，最强Nano-banana创意玩法提示词示例合集，Nano-banana热门玩法最全教程+提示词+API使用指南，Nano-banana 教程与提示词合集](https://pic.imgdd.cc/item/690978ba423b249744b86877.png "Nano-banana提示词大全，最强Nano-banana创意玩法提示词示例合集，Nano-banana热门玩法最全教程+提示词+API使用指南，Nano-banana 教程与提示词合集")](https://api.whatai.cc)
 
 ## Nano-banana 提示词大全
 
