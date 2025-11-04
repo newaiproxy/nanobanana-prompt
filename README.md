@@ -1,6 +1,6 @@
-# 
+# Nano-banana提示词大全，最强Nano-banana创意玩法提示词示例合集，Nano-banana热门玩法最全教程+提示词+API使用指南，Nano-banana 教程与提示词合集
 
-
+![Nano-banana提示词大全，最强Nano-banana创意玩法提示词示例合集，Nano-banana热门玩法最全教程+提示词+API使用指南，Nano-banana 教程与提示词合集]([https://pic2.imgdd.cc/item/68e3e9748dc72b176e79f7dd.jpg](https://pic.imgdd.cc/item/690978ba423b249744b86877.png))
 
 ## Nano-banana 提示词大全
 
@@ -15,6 +15,11 @@
 
 接下来，只需配置好你的神马中转 API Key，即可畅享完整的提示词体验，让你的每一次调用都快速、顺畅、稳定。
 
+### 官方链接
+    •	官网：https://api.whatai.cc
+	•	教程文档 & 示例代码：https://docs.whatai.cc
+	
+[![神马聚合中转API_低价gpt_中转api_好用稳定的GPT代理_claude中转api_Midjourney代理_Suno代理_Luma代理](https://pic2.imgdd.cc/item/68c78cabfcdff65483faea2a.jpg "神马聚合中转API_低价gpt_中转api_好用稳定的GPT代理_claude中转api_Midjourney代理_Suno代理_Luma代理")](https://api.whatai.cc)
 
 ## 🖼️ 例子
 
